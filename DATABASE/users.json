@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "673c1f5cfd1336c05c64da55"
+  },
+  "name": "Nguyễn Quang",
+  "email": "gnauq1210@gmail.com",
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocLO4jMRE05wH9L1XOekoXBA9WcbBv5rbo01XhzlGPTIQvtGBA=s96-c",
+  "admin": true,
+  "createdAt": {
+    "$date": "2024-11-19T05:17:16.582Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T07:47:42.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ddf4ba802f4391754650b"
+  },
+  "name": "NGUYEN VAN QUANG",
+  "email": "2254810127@vaa.edu.vn",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/files%2Fs23-ultra-xanh_2.png?alt=media&token=d1ec24c1-231b-478f-9ced-ca75bb51b7b7",
+  "admin": true,
+  "createdAt": {
+    "$date": "2024-11-20T13:08:27.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T06:40:29.750Z"
+  },
+  "__v": 0,
+  "address": "18 CỘNG HÒA",
+  "password": ""
+}]

@@ -1,0 +1,475 @@
+[{
+  "_id": {
+    "$oid": "660516d8f9f950d836d86a65"
+  },
+  "name": "Realme 10 8GB 256GB",
+  "price": 14800000,
+  "description": "Realme 13+ 5G sử dụng bộ vi xử lý hiện đại, mang đến trải nghiệm mượt mà cho các tác vụ đa nhiệm và chơi game.\nMàn hình Full HD+ với tần số quét cao 120Hz cho hình ảnh mượt mà và sắc nét khi lướt web, xem video hoặc chơi game.\nHỗ trợ kết nối 5G giúp truy cập Internet nhanh chóng và ổn định, phù hợp cho nhu cầu công việc và giải trí trực tuyến.\nPin dung lượng lớn với công nghệ sạc nhanh, giúp người dùng có thể sử dụng lâu dài mà không lo lắng về việc sạc lại thường xuyên.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fiphone-15-pro-max_3.png?alt=media&token=f5d34f4b-596a-4b67-8525-401fe2c18bef",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-03-28T07:06:00.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:32:08.682Z"
+  },
+  "__v": 0,
+  "categoryId": "660509eb168d168dbd350999"
+},
+{
+  "_id": {
+    "$oid": "66051795f9f950d836d86a67"
+  },
+  "name": "Samsung Galaxy Tab S9 FE 5G 6GB 128GB",
+  "price": 4000000,
+  "description": "Sở hữu chipset Exynos cho khả năng xử lý đa nhiệm các tác vụ mượt mà hơn.\nMàn hình rộng 10.9 inch với độ phân giải 2K+ và hỗ trợ HDR10+ - Chất lượng hình ảnh sắc nét và chân thực.\nThiết kế nhỏ gọn, vuông vức và rất hợp thời trang và sang trọng.\nTính năng Circle to search đã được cập nhật trên Galaxy Tab S9 FE series cho phép bạn tìm kiếm dễ dàng.\nKết hợp với bút S - Pen siêu tiện lợi - Giúp người dùng tăng cường năng suất làm việc.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fzflip6.png?alt=media&token=78cf01dc-1e50-42dd-8dfd-d850c114407e",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-03-28T07:09:09.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T05:37:04.757Z"
+  },
+  "__v": 0,
+  "categoryId": "660509ca168d168dbd35098d"
+},
+{
+  "_id": {
+    "$oid": "660532579235fdf132aade33"
+  },
+  "name": "Điện thoại Vivo Y28",
+  "price": 6000000,
+  "description": "Có thể giữ hơn 25+ ứng dụng chạy nền đồng thời với Ram mở rộng lên đến 8Gb\nChia đôi màn hình để thực hiện đa nhiệm vụ, bạn có thể trải nghiệm hai thế giới khác nhau cùng lúc.\nVới màn hình 90Hz cho mọi chuyển động, chi tiết và màu sắc đều trở nên sống động.\nThưởng thức âm thanh tuyệt đỉnh với công nghệ mở rộng khoang âm thanh của vivo.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fxiaomi_redmi_14c_5.png?alt=media&token=460a3770-3903-4ade-b4e2-c86d63156625",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-03-28T09:03:19.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:27:44.368Z"
+  },
+  "__v": 0,
+  "categoryId": "660509db168d168dbd350993"
+},
+{
+  "_id": {
+    "$oid": "66066926249f35e3130ea179"
+  },
+  "name": "Samsung Galaxy Z Fold6 5G 256GB",
+  "price": 4500000,
+  "description": "Màn hình chính Dynamic AMOLED 2X 7.6 inch cho trải nghiệm giải trí, làm việc đỉnh cao.\nChip Snapdragon 8 Gen 3 cho tốc độ xử lý siêu nhanh, đáp ứng tốt mọi nhu cầu sử dụng.\nCamera chính 50.0 MP ghi lại những khoảnh khắc đẹp với độ chi tiết, màu sắc ấn tượng.\nPin 4400mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fs23-ultra-xanh_2.png?alt=media&token=0bcacf68-be5d-429b-8523-43e7c95d0d31",
+  "sub_image": [
+    ""
+  ],
+  "createdAt": {
+    "$date": "2024-03-29T07:09:26.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:33:16.196Z"
+  },
+  "__v": 0,
+  "categoryId": "660509ca168d168dbd35098d"
+},
+{
+  "_id": {
+    "$oid": "66066976249f35e3130ea181"
+  },
+  "name": "iPhone 15 Pro Max 512GB",
+  "price": 5000000,
+  "description": "Màn hình Super Retina XDR 6,9 inch lớn hơn có viền mỏng hơn, đem đến cảm giác tuyệt vời khi cầm trên tay.\nĐiều khiển Camera - Chỉ cần trượt ngón tay để điều chỉnh camera giúp chụp ảnh hoặc quay video đẹp hoàn hảo và siêu nhanh.\niPhone 16 Pro Max có thiết kế titan cấp 5 với lớp hoàn thiện mới, tinh tế được xử lý bề mặt vi điểm.\niPhone 16 Pro Max được cài đặt sẵn hệ điều hành iOS 18, cho giao diện trực quan, dễ sử dụng và nhiều tính năng hữu ích.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fiphone-15-pro-max_3.png?alt=media&token=52cba1d7-fd7a-4833-8cd9-884096745425",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-03-29T07:10:46.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:25:59.102Z"
+  },
+  "__v": 0,
+  "categoryId": "660509bf168d168dbd35098a"
+},
+{
+  "_id": {
+    "$oid": "660669b1249f35e3130ea183"
+  },
+  "name": "iPhone 16 Pro Max 1TB | Chính hãng VN/A",
+  "price": 500000,
+  "description": "Màn hình Super Retina XDR 6,9 inch lớn hơn có viền mỏng hơn, đem đến cảm giác tuyệt vời khi cầm trên tay.\nĐiều khiển Camera - Chỉ cần trượt ngón tay để điều chỉnh camera giúp chụp ảnh hoặc quay video đẹp hoàn hảo và siêu nhanh.\niPhone 16 Pro Max có thiết kế titan cấp 5 với lớp hoàn thiện mới, tinh tế được xử lý bề mặt vi điểm.\niPhone 16 Pro Max được cài đặt sẵn hệ điều hành iOS 18, cho giao diện trực quan, dễ sử dụng và nhiều tính năng hữu ích.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fiphone-11.jpg?alt=media&token=cfee9de1-a884-4e14-bfab-12558e3b0174",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-03-29T07:11:45.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T06:53:06.416Z"
+  },
+  "__v": 0,
+  "categoryId": "660509bf168d168dbd35098a"
+},
+{
+  "_id": {
+    "$oid": "660669e8249f35e3130ea185"
+  },
+  "name": "Samsung Galaxy Z Fold6 12GB 256GB",
+  "price": 3000000,
+  "description": "Màn hình chính Dynamic AMOLED 2X 7.6 inch cho trải nghiệm giải trí, làm việc đỉnh cao.\nChip Snapdragon 8 Gen 3 cho tốc độ xử lý siêu nhanh, đáp ứng tốt mọi nhu cầu sử dụng.\nCamera chính 50.0 MP ghi lại những khoảnh khắc đẹp với độ chi tiết, màu sắc ấn tượng.\nPin 4400mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fsamsung-galaxy-a05sl.png?alt=media&token=c18967ec-1a39-4eb0-8be6-5a6c25847224",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-03-29T07:12:40.822Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T05:36:32.892Z"
+  },
+  "__v": 0,
+  "categoryId": "660509ca168d168dbd35098d"
+},
+{
+  "_id": {
+    "$oid": "66066a63249f35e3130ea189"
+  },
+  "name": "realme C67 (8GB 128GB)",
+  "price": 9050000,
+  "description": "Realme 13+ 5G sử dụng bộ vi xử lý hiện đại, mang đến trải nghiệm mượt mà cho các tác vụ đa nhiệm và chơi game.\nMàn hình Full HD+ với tần số quét cao 120Hz cho hình ảnh mượt mà và sắc nét khi lướt web, xem video hoặc chơi game.\nHỗ trợ kết nối 5G giúp truy cập Internet nhanh chóng và ổn định, phù hợp cho nhu cầu công việc và giải trí trực tuyến.\nPin dung lượng lớn với công nghệ sạc nhanh, giúp người dùng có thể sử dụng lâu dài mà không lo lắng về việc sạc lại thường xuyên.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fvivo-y52t.png?alt=media&token=c136c846-72b7-4a76-952a-f94c634c850c",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-03-29T07:14:43.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:30:12.131Z"
+  },
+  "__v": 0,
+  "categoryId": "660509eb168d168dbd350999"
+},
+{
+  "_id": {
+    "$oid": "673c22dafd1336c05c64dcf0"
+  },
+  "name": "Điện thoại Nubia Music NFC 4GB 128GB",
+  "categoryId": "660509f6168d168dbd35099c",
+  "price": 5000000,
+  "description": "Chip âm thanh chuyên dụng mang đến chất lượng âm thanh tuyệt vời, được trang bị NFC tiện lợi khi sử dụng.\nMàn hình lớn 6.6 inch HD+ cho phép bạn xem nội dung với độ chi tiết cao và màu sắc rực rỡ. \nPin dung lượng lớn 5000mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.\nBộ nhớ trong lớn 128GB cho phép bạn lưu trữ một lượng lớn bài hát, video và các tệp tin khác. ",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fpoco-m5.png?alt=media&token=dae2c5b9-8267-4125-920f-c8c935b70d1c",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:32:10.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:26:23.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c23f8fd1336c05c64de33"
+  },
+  "name": "Điện thoại Tecno Camon 30 12GB/256GB",
+  "categoryId": "660509f6168d168dbd35099c",
+  "price": 9000000,
+  "description": "Chip âm thanh chuyên dụng mang đến chất lượng âm thanh tuyệt vời, được trang bị NFC tiện lợi khi sử dụng.\nMàn hình lớn 6.6 inch HD+ cho phép bạn xem nội dung với độ chi tiết cao và màu sắc rực rỡ. \nPin dung lượng lớn 5000mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.\nBộ nhớ trong lớn 128GB cho phép bạn lưu trữ một lượng lớn bài hát, video và các tệp tin khác. ",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fvivo-y52t.png?alt=media&token=36d85efd-86c7-4065-bc8d-72e8d0cedb27",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:36:56.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:29:50.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2532fd1336c05c64df6f"
+  },
+  "name": "OPPO A18 4GB 64GB",
+  "categoryId": "660509d3168d168dbd350990",
+  "price": 2000000,
+  "description": "OPPO Find X8 hữu chip Dimensity 9400 3nm với lõi Cortex-X925 sẽ đảm bảo xử lý mọi tác vụ một cách nhanh chóng.\nFind X8 sẽ được trang bị cụm 3 camera sau 50MP đảm bảo được sự đồng đều về chất lượng hình ảnh giữa các chế độ chụp.\nViên Pin 5630 mAh sẽ giúp dòng bạn kéo dài ra đáng kể thời gian dùng điện thoại, đáp ứng nhu cầu sử dụng hỗn hợp suốt cả ngày của người dùng.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Foppo-a3.png?alt=media&token=9798596d-9b90-4545-8734-298d732b6983",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:42:10.422Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:23:27.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2575fd1336c05c64df75"
+  },
+  "name": "Điện thoại vivo Y03 (4GB 128GB)",
+  "categoryId": "660509db168d168dbd350993",
+  "price": 6000000,
+  "description": "Có thể giữ hơn 25+ ứng dụng chạy nền đồng thời với Ram mở rộng lên đến 8Gb\nChia đôi màn hình để thực hiện đa nhiệm vụ, bạn có thể trải nghiệm hai thế giới khác nhau cùng lúc.\nVới màn hình 90Hz cho mọi chuyển động, chi tiết và màu sắc đều trở nên sống động.\nThưởng thức âm thanh tuyệt đỉnh với công nghệ mở rộng khoang âm thanh của vivo.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fxiaomi-14-ultra_1__3.png?alt=media&token=96aeda30-3ca3-4394-bf8a-cb564cf12137",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:43:17.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:27:59.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c25b2fd1336c05c64df7b"
+  },
+  "name": "realme 13+ 5G (8GB 256GB)",
+  "categoryId": "660509eb168d168dbd350999",
+  "price": 5000000,
+  "description": "Realme 13+ 5G sử dụng bộ vi xử lý hiện đại, mang đến trải nghiệm mượt mà cho các tác vụ đa nhiệm và chơi game.\nMàn hình Full HD+ với tần số quét cao 120Hz cho hình ảnh mượt mà và sắc nét khi lướt web, xem video hoặc chơi game.\nHỗ trợ kết nối 5G giúp truy cập Internet nhanh chóng và ổn định, phù hợp cho nhu cầu công việc và giải trí trực tuyến.\nPin dung lượng lớn với công nghệ sạc nhanh, giúp người dùng có thể sử dụng lâu dài mà không lo lắng về việc sạc lại thường xuyên.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fpoco-m5.png?alt=media&token=0cf6016d-b967-4c42-ba6f-3d9486e8021b",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:44:18.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:36:47.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c25e4fd1336c05c64df81"
+  },
+  "name": "OPPO A78 4G (8GB 256GB)",
+  "categoryId": "660509d3168d168dbd350990",
+  "price": 6000000,
+  "description": "OPPO Find X8 hữu chip Dimensity 9400 3nm với lõi Cortex-X925 sẽ đảm bảo xử lý mọi tác vụ một cách nhanh chóng.\nFind X8 sẽ được trang bị cụm 3 camera sau 50MP đảm bảo được sự đồng đều về chất lượng hình ảnh giữa các chế độ chụp.\nViên Pin 5630 mAh sẽ giúp dòng bạn kéo dài ra đáng kể thời gian dùng điện thoại, đáp ứng nhu cầu sử dụng hỗn hợp suốt cả ngày của người dùng.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fdien-thoai-oppo-find-x8-xam-1.png?alt=media&token=112102cc-e3db-4852-a3b3-617de60fb533",
+  "sub_image": [
+    "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Foppo-a3.png?alt=media&token=fac04245-5668-461c-95f3-0e34a792a82c",
+    "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Foppo-find-n3.png?alt=media&token=a85f4fd9-c82a-4f98-aaa7-e497afc37b8b"
+  ],
+  "createdAt": {
+    "$date": "2024-11-19T05:45:08.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T07:40:47.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c26bdfd1336c05c64e075"
+  },
+  "name": "Điện thoại Nubia V60 Design 6GB 256GB",
+  "categoryId": "660509db168d168dbd350993",
+  "price": 5300000,
+  "description": "Có thể giữ hơn 25+ ứng dụng chạy nền đồng thời với Ram mở rộng lên đến 8Gb\nChia đôi màn hình để thực hiện đa nhiệm vụ, bạn có thể trải nghiệm hai thế giới khác nhau cùng lúc.\nVới màn hình 90Hz cho mọi chuyển động, chi tiết và màu sắc đều trở nên sống động.\nThưởng thức âm thanh tuyệt đỉnh với công nghệ mở rộng khoang âm thanh của vivo.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fs21-fe.png?alt=media&token=d027612e-8b26-47ae-a9f8-98261b2dd99e",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:48:45.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T07:30:22.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2730fd1336c05c64e07f"
+  },
+  "name": "Điện thoại Meizu Mblu 21 4GB 64GB",
+  "categoryId": "660509db168d168dbd350993",
+  "price": 3000000,
+  "description": "Có thể giữ hơn 25+ ứng dụng chạy nền đồng thời với Ram mở rộng lên đến 8Gb\nChia đôi màn hình để thực hiện đa nhiệm vụ, bạn có thể trải nghiệm hai thế giới khác nhau cùng lúc.\nVới màn hình 90Hz cho mọi chuyển động, chi tiết và màu sắc đều trở nên sống động.\nThưởng thức âm thanh tuyệt đỉnh với công nghệ mở rộng khoang âm thanh của vivo.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fdien-thoai-realme-note-60-4gb-64gb_1.png?alt=media&token=c5c9b20d-8d2c-44f4-a3d1-6b107d8ee6d7",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:50:40.070Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:25:13.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2766fd1336c05c64e083"
+  },
+  "name": "OPPO Find X8",
+  "categoryId": "660509d3168d168dbd350990",
+  "price": 6000000,
+  "description": "OPPO Find X8 hữu chip Dimensity 9400 3nm với lõi Cortex-X925 sẽ đảm bảo xử lý mọi tác vụ một cách nhanh chóng.\nFind X8 sẽ được trang bị cụm 3 camera sau 50MP đảm bảo được sự đồng đều về chất lượng hình ảnh giữa các chế độ chụp.\nViên Pin 5630 mAh sẽ giúp dòng bạn kéo dài ra đáng kể thời gian dùng điện thoại, đáp ứng nhu cầu sử dụng hỗn hợp suốt cả ngày của người dùng.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Foppo-find-x5-pro-4.png?alt=media&token=125f8472-4c0d-42b6-b0f3-5c2a743af8c5",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:51:34.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:28:18.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c292efd1336c05c64e2de"
+  },
+  "name": "Điện thoại Sony Xperia 1V 12GB 256GB",
+  "categoryId": "660509f6168d168dbd35099c",
+  "price": 6000000,
+  "description": "Hãy để các chất liệu kết hợp cùng nhau trong mùa thời trang mới này. Nàng có thể chọn cho mình chiếc kiềng được chế tác từ vàng 18K và ghi điểm với điểm nhấn kim cương đính một cách tinh xảo. Và PNJ chắc chắn rằng, kiềng sẽ làm nổi bật vẻ đẹp kiêu sa của nàng.Chip âm thanh chuyên dụng mang đến chất lượng âm thanh tuyệt vời, được trang bị NFC tiện lợi khi sử dụng.\nMàn hình lớn 6.6 inch HD+ cho phép bạn xem nội dung với độ chi tiết cao và màu sắc rực rỡ. \nPin dung lượng lớn 5000mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.\nBộ nhớ trong lớn 128GB cho phép bạn lưu trữ một lượng lớn bài hát, video và các tệp tin khác. ",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Freno12f.png?alt=media&token=e645b45a-540c-425f-832a-d477572fe64a",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T05:59:10.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:28:34.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c296cfd1336c05c64e2e2"
+  },
+  "name": "iPhone 16 Pro Max 256GB",
+  "categoryId": "660509bf168d168dbd35098a",
+  "price": 1000000,
+  "description": "Màn hình Super Retina XDR 6,9 inch lớn hơn có viền mỏng hơn, đem đến cảm giác tuyệt vời khi cầm trên tay.\nĐiều khiển Camera - Chỉ cần trượt ngón tay để điều chỉnh camera giúp chụp ảnh hoặc quay video đẹp hoàn hảo và siêu nhanh.\niPhone 16 Pro Max có thiết kế titan cấp 5 với lớp hoàn thiện mới, tinh tế được xử lý bề mặt vi điểm.\niPhone 16 Pro Max được cài đặt sẵn hệ điều hành iOS 18, cho giao diện trực quan, dễ sử dụng và nhiều tính năng hữu ích.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fiphone-12-mini_1_1.png?alt=media&token=13f49bce-a031-4614-8f63-c0645f0f94c9",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T06:00:12.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:22:30.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c299afd1336c05c64e2e6"
+  },
+  "name": "Samsung Galaxy S24 Plus 12GB 256GB",
+  "categoryId": "660509ca168d168dbd35098d",
+  "price": 2000000,
+  "description": "Màn hình chính Dynamic AMOLED 2X 7.6 inch cho trải nghiệm giải trí, làm việc đỉnh cao.\nChip Snapdragon 8 Gen 3 cho tốc độ xử lý siêu nhanh, đáp ứng tốt mọi nhu cầu sử dụng.\nCamera chính 50.0 MP ghi lại những khoảnh khắc đẹp với độ chi tiết, màu sắc ấn tượng.\nPin 4400mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fgalaxy-z-fold-5-xam-1_1_.jpg?alt=media&token=64574778-6779-4e6a-9ca8-9dd86a47b8de",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T06:00:58.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:23:45.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c29dbfd1336c05c64e2ea"
+  },
+  "name": "Điện thoại Itel RS4 8GB 256GB NFC",
+  "categoryId": "660509f6168d168dbd35099c",
+  "price": 50000000,
+  "description": "Chip âm thanh chuyên dụng mang đến chất lượng âm thanh tuyệt vời, được trang bị NFC tiện lợi khi sử dụng.\nMàn hình lớn 6.6 inch HD+ cho phép bạn xem nội dung với độ chi tiết cao và màu sắc rực rỡ. \nPin dung lượng lớn 5000mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.\nBộ nhớ trong lớn 128GB cho phép bạn lưu trữ một lượng lớn bài hát, video và các tệp tin khác. ",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Frealme-c53_1_.png?alt=media&token=5c4427fc-0645-40bd-b7f6-876e840b9f65",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T06:02:03.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:31:46.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c29f9fd1336c05c64e2ee"
+  },
+  "name": "Điện thoại Sony Xperia 10VI 8GB 128GB",
+  "categoryId": "660509f6168d168dbd35099c",
+  "price": 50000000,
+  "description": "Chip âm thanh chuyên dụng mang đến chất lượng âm thanh tuyệt vời, được trang bị NFC tiện lợi khi sử dụng.\nMàn hình lớn 6.6 inch HD+ cho phép bạn xem nội dung với độ chi tiết cao và màu sắc rực rỡ. \nPin dung lượng lớn 5000mAh cho phép bạn sử dụng điện thoại cả ngày dài mà không cần lo lắng về việc hết pin.\nBộ nhớ trong lớn 128GB cho phép bạn lưu trữ một lượng lớn bài hát, video và các tệp tin khác. ",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Foppo-find-n3.png?alt=media&token=d24587a1-3c27-4695-b217-6eabf8cc98be",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T06:02:33.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:31:27.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2ac7fd1336c05c64e3f8"
+  },
+  "name": "Điện thoại vivo Y03 (4GB 128GB)",
+  "categoryId": "660509db168d168dbd350993",
+  "price": 7000000,
+  "description": "Có thể giữ hơn 25+ ứng dụng chạy nền đồng thời với Ram mở rộng lên đến 8Gb\nChia đôi màn hình để thực hiện đa nhiệm vụ, bạn có thể trải nghiệm hai thế giới khác nhau cùng lúc.\nVới màn hình 90Hz cho mọi chuyển động, chi tiết và màu sắc đều trở nên sống động.\nThưởng thức âm thanh tuyệt đỉnh với công nghệ mở rộng khoang âm thanh của vivo.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Ftecno-spark-go-2024._3_.png?alt=media&token=606a21a1-7964-4843-89c4-0f02a0bce896",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T06:05:59.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T07:29:30.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2af2fd1336c05c64e3fc"
+  },
+  "name": "OPPO Reno12 5G (12GB 256GB)",
+  "categoryId": "660509d3168d168dbd350990",
+  "price": 90000000,
+  "description": "OPPO Find X8 hữu chip Dimensity 9400 3nm với lõi Cortex-X925 sẽ đảm bảo xử lý mọi tác vụ một cách nhanh chóng.\nFind X8 sẽ được trang bị cụm 3 camera sau 50MP đảm bảo được sự đồng đều về chất lượng hình ảnh giữa các chế độ chụp.\nViên Pin 5630 mAh sẽ giúp dòng bạn kéo dài ra đáng kể thời gian dùng điện thoại, đáp ứng nhu cầu sử dụng hỗn hợp suốt cả ngày của người dùng.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fv30e_1_.png?alt=media&token=abf69c25-7e70-4e9e-b6b1-30489cea8174",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T06:06:42.271Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:31:02.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2b2cfd1336c05c64e400"
+  },
+  "name": "iPhone 15 Plus 128GB | Chính hãng VN/A",
+  "categoryId": "660509bf168d168dbd35098a",
+  "price": 1230000,
+  "description": "Màn hình Super Retina XDR 6,9 inch lớn hơn có viền mỏng hơn, đem đến cảm giác tuyệt vời khi cầm trên tay.\nĐiều khiển Camera - Chỉ cần trượt ngón tay để điều chỉnh camera giúp chụp ảnh hoặc quay video đẹp hoàn hảo và siêu nhanh.\niPhone 16 Pro Max có thiết kế titan cấp 5 với lớp hoàn thiện mới, tinh tế được xử lý bề mặt vi điểm.\niPhone 16 Pro Max được cài đặt sẵn hệ điều hành iOS 18, cho giao diện trực quan, dễ sử dụng và nhiều tính năng hữu ích.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fiphone-16-1.png?alt=media&token=bc467f7e-b656-491a-ad02-1e7e97cd9d10",
+  "sub_image": [
+    ""
+  ],
+  "createdAt": {
+    "$date": "2024-11-19T06:07:40.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:24:50.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c2b65fd1336c05c64e41e"
+  },
+  "name": "realme C53 (8GB 256GB)",
+  "price": 7000000,
+  "description": "Realme 13+ 5G sử dụng bộ vi xử lý hiện đại, mang đến trải nghiệm mượt mà cho các tác vụ đa nhiệm và chơi game.\nMàn hình Full HD+ với tần số quét cao 120Hz cho hình ảnh mượt mà và sắc nét khi lướt web, xem video hoặc chơi game.\nHỗ trợ kết nối 5G giúp truy cập Internet nhanh chóng và ổn định, phù hợp cho nhu cầu công việc và giải trí trực tuyến.\nPin dung lượng lớn với công nghệ sạc nhanh, giúp người dùng có thể sử dụng lâu dài mà không lo lắng về việc sạc lại thường xuyên.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/uploadimage-9bd72.appspot.com/o/product%2Fxiaomi_redmi_14c_5.png?alt=media&token=4d738467-de29-4e17-9826-7167b2e0747b",
+  "sub_image": [],
+  "createdAt": {
+    "$date": "2024-11-19T06:08:37.022Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-07T04:36:06.377Z"
+  },
+  "__v": 0,
+  "categoryId": "660509eb168d168dbd350999"
+}]

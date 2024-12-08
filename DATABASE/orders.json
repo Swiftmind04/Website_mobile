@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6635e4628ea52f92e46c962b"
+  },
+  "userId": "661e2f5dd960f51a55038707",
+  "product": [
+    {
+      "productId": "660669e8249f35e3130ea185",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6635e4628ea52f92e46c962c"
+      }
+    },
+    {
+      "productId": "66066976249f35e3130ea181",
+      "quantity": 1,
+      "_id": {
+        "$oid": "6635e4628ea52f92e46c962d"
+      }
+    }
+  ],
+  "price": 1781600,
+  "confimationStatus": "Đã xác nhận",
+  "paymentStatus": "Đã thanh toán",
+  "createdAt": {
+    "$date": "2024-05-04T07:31:46.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T06:52:39.653Z"
+  },
+  "__v": 0
+}]
